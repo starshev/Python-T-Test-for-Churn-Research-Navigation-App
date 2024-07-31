@@ -2,7 +2,7 @@
 
 **Context**  
 
-A Navigation App project team assigned to analyze the correlation between users' devices and the average number of rides as part of churn research.
+A Navigation App project team assigned to analyze the correlation between users' devices and the average number of rides as a part of churn research.
 
 **Skills**  
 
