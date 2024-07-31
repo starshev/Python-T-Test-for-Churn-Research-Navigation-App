@@ -9,4 +9,5 @@ A Navigation App project team assigned to analyze the correlation between users'
 Exploratory data analysis using the Pandas library  
 Variables conversion  
 Preparing and conducting hypothesis t-test using the SciPy Stats library  
-Evaluating test results and formulating data-driven recommendations
+Evaluating test results  
+Formulating data-driven recommendations
