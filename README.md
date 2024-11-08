@@ -1,13 +1,13 @@
-# T-Test with Python · Navigation App
+# T-Test Analysis on User Behavior · Navigation App
 
-**Context**  
+### Project Overview
+Analyzed the correlation between users' devices and the average number of rides in a navigation app as part of churn research. The project involved data preparation, performing a T-test using the SciPy Stats library, and evaluating the results to uncover insights.
 
-A Navigation App project team assigned to analyze the correlation between users' devices and the average number of rides as a part of churn research.
+### Key Skills
+Exploratory data analysis using Pandas, variable conversion, preparing and conducting T-test using SciPy Stats, evaluating test results, and formulating data-driven recommendations.
 
-**Skills**  
+### Описание проекта
+Проведён анализ корреляции между устройствами пользователей и средним количеством поездок в навигационном приложении в рамках исследования оттока пользователей. Проект включал подготовку данных, проведение T-теста с использованием библиотеки SciPy Stats и оценку результатов для выявления инсайтов.
 
-Exploratory data analysis using the Pandas library  
-Variables conversion  
-Preparing and conducting hypothesis t-test using the SciPy Stats library  
-Evaluating test results  
-Formulating data-driven recommendations
+### Ключевые навыки
+Исследовательский анализ данных с использованием Pandas, преобразование переменных, подготовка и проведение T-теста с использованием SciPy Stats, оценка результатов теста и формулирование выводов на основе данных.
