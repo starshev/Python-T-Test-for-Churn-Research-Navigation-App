@@ -1,4 +1,4 @@
-# T-Test Analysis on User Behavior · Waze Navigation App
+# T-Test Analysis for Churn Research · Waze Navigation App
 
 ### Project Overview
 Analyzed the correlation between users' devices and the average number of rides in the Waze navigation app as part of churn research. The project involved data preparation, performing a T-test using the SciPy Stats library, and evaluating the results to uncover insights.
